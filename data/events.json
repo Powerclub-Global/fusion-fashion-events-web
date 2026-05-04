@@ -1,0 +1,185 @@
+{
+  "events": [
+    {
+      "id": "fusion-swim-week-2026",
+      "slug": "fusion-swim-week-2026",
+      "name": "Fusion Swim Week 2026",
+      "tagline": "Miami's Most Electrifying Swimwear Showcase",
+      "category": "swim-week",
+      "featured": true,
+      "status": "upcoming",
+      "dates": "May 24–31, 2026",
+      "dateRange": { "start": "2026-05-24", "end": "2026-05-31" },
+      "location": "Miami, Florida",
+      "venue": {
+        "name": "Miami Beach",
+        "address": "Miami Beach, FL 33139",
+        "googleMapsUrl": "https://maps.google.com/?q=Miami+Beach+FL"
+      },
+      "heroImage": "/events/aerial_shot_swim_week.png",
+      "galleryImages": [
+        "/events/G47A3467.jpg",
+        "/events/G47A3597.jpg",
+        "/events/G47A3871.jpg",
+        "/events/DSC07799.jpg"
+      ],
+      "description": "Seven nights of world-class swimwear runway shows, VIP parties, and industry networking in the heart of Miami Beach.",
+      "longDescription": "Fusion Swim Week 2026 brings together the most exciting independent swimwear designers for seven electric nights on the Miami Beach runway. From emerging talent to established brands, our curated lineup delivers production quality that rivals the biggest stages in fashion — with the energy only Miami can bring.",
+      "ticketTiers": [
+        {
+          "id": "general",
+          "name": "General Admission",
+          "price": 75,
+          "earlyBirdPrice": 55,
+          "earlyBirdDeadline": "2026-04-01",
+          "perks": ["Standing runway access", "Event program", "Welcome cocktail"],
+          "available": true
+        },
+        {
+          "id": "vip",
+          "name": "VIP",
+          "price": 250,
+          "perks": ["Front row seating", "After-party access", "VIP gift bag", "Open bar"],
+          "available": true
+        },
+        {
+          "id": "industry",
+          "name": "Industry / Media Pass",
+          "price": 0,
+          "perks": ["Press credential", "Backstage access", "Press kit"],
+          "available": true
+        }
+      ],
+      "registrationOpen": true,
+      "designerApplicationUrl": "/register/designer",
+      "modelApplicationUrl": "/register/model",
+      "schedule": [
+        {
+          "date": "2026-05-24",
+          "label": "Opening Night",
+          "events": [
+            { "time": "7:00 PM", "title": "Doors Open", "location": "Main Venue" },
+            { "time": "8:00 PM", "title": "Opening Runway Show", "description": "The official launch of Fusion Swim Week 2026", "location": "Main Stage" },
+            { "time": "10:00 PM", "title": "Opening Night Party", "location": "VIP Terrace" }
+          ]
+        },
+        {
+          "date": "2026-05-25",
+          "label": "Night Two",
+          "events": [
+            { "time": "7:30 PM", "title": "Designer Showcase — Emerging Talent", "location": "Main Stage" },
+            { "time": "9:30 PM", "title": "Networking Reception", "location": "Pool Deck" }
+          ]
+        },
+        {
+          "date": "2026-05-31",
+          "label": "Closing Night",
+          "events": [
+            { "time": "7:00 PM", "title": "Grand Finale Runway Show", "location": "Main Stage" },
+            { "time": "9:30 PM", "title": "Closing Night Gala", "location": "VIP Terrace" }
+          ]
+        }
+      ],
+      "tags": ["swimwear", "runway", "miami", "fashion week", "vip"],
+      "seoTitle": "Fusion Swim Week 2026 — Miami Swimwear Fashion Show | May 24–31",
+      "seoDescription": "Experience Miami's most electrifying swimwear runway event. 7 nights of designer showcases, VIP parties & industry networking. May 24–31, 2026."
+    },
+    {
+      "id": "hollywood-couture-2026",
+      "slug": "hollywood-couture-2026",
+      "name": "Hollywood Couture",
+      "tagline": "8 Runway Designers. One Iconic Night.",
+      "category": "runway",
+      "featured": true,
+      "status": "upcoming",
+      "dates": "April 11, 2026",
+      "dateRange": { "start": "2026-04-11", "end": "2026-04-11" },
+      "location": "North Miami, Florida",
+      "venue": {
+        "name": "Hollywood Design Complex",
+        "address": "North Miami, FL",
+        "googleMapsUrl": "https://maps.google.com/?q=North+Miami+FL"
+      },
+      "heroImage": "/events/2026-4.png",
+      "galleryImages": [
+        "/events/IMG_2537.jpg",
+        "/events/0E0A66D6.jpg",
+        "/events/2026-2.jpg"
+      ],
+      "description": "Eight of South Florida's most exciting designers take the stage for one unforgettable evening of couture, exotic supercars, and live music.",
+      "longDescription": "Hollywood Couture is the evening that defines Miami fashion. Eight carefully selected designers, an audience of industry insiders, exotic supercars on display, and a live music soundtrack — all converging for a single, electric April night in North Miami.",
+      "ticketTiers": [
+        {
+          "id": "guestlist",
+          "name": "Guestlist",
+          "price": 0,
+          "perks": ["General admission entry"],
+          "available": true
+        },
+        {
+          "id": "general",
+          "name": "General Admission",
+          "price": 65,
+          "perks": ["Reserved seating area", "Event program"],
+          "available": true
+        },
+        {
+          "id": "vip",
+          "name": "VIP",
+          "price": 130,
+          "perks": ["Front row seating", "Open bar", "VIP lounge access"],
+          "available": true
+        }
+      ],
+      "registrationOpen": true,
+      "designerApplicationUrl": "/register/designer",
+      "modelApplicationUrl": "/register/model",
+      "tags": ["couture", "runway", "miami", "supercars", "live music"],
+      "seoTitle": "Hollywood Couture — Miami Fashion Show | April 11, 2026",
+      "seoDescription": "8 runway designers, exotic supercars & live music. Hollywood Couture returns April 11, 2026 in North Miami. Get your tickets now."
+    },
+    {
+      "id": "model-comp-card-workshop",
+      "slug": "model-comp-card-workshop",
+      "name": "Model Comp Card Workshop",
+      "tagline": "Professional Photos. Industry-Ready Portfolio.",
+      "category": "workshop",
+      "featured": false,
+      "status": "upcoming",
+      "dates": "Ongoing — Book Your Session",
+      "dateRange": { "start": "2026-04-01", "end": "2026-12-31" },
+      "location": "Miami, Florida",
+      "venue": {
+        "name": "Professional Studio",
+        "address": "Miami, FL"
+      },
+      "heroImage": "/events/ModelCompCard.jpg",
+      "galleryImages": [
+        "/events/ModelCompCard.jpg"
+      ],
+      "description": "Professional comp card photo sessions with experienced photographers. Single-page or two-sided comp cards available.",
+      "longDescription": "Your comp card is your calling card. Our professional photo sessions deliver industry-standard comp cards with studio lighting, professional photographers, and multiple looks — everything you need to submit to agencies and casting calls.",
+      "ticketTiers": [
+        {
+          "id": "single",
+          "name": "Single-Page Comp Card",
+          "price": 150,
+          "perks": ["Studio session", "Professional photographer", "1 final edited look", "Print-ready file"],
+          "available": true
+        },
+        {
+          "id": "double",
+          "name": "Two-Sided Comp Card",
+          "price": 200,
+          "perks": ["Studio session", "Professional photographer", "2 final edited looks", "Print-ready files", "Agency-formatted layout"],
+          "available": true
+        }
+      ],
+      "registrationOpen": true,
+      "modelApplicationUrl": "/register/model",
+      "tags": ["workshop", "model", "comp card", "photography", "portfolio"],
+      "seoTitle": "Model Comp Card Workshop Miami — Professional Portfolio Sessions",
+      "seoDescription": "Professional comp card photo sessions in Miami. Single or two-sided comp cards with studio lighting and experienced photographers. Book now."
+    }
+  ]
+}

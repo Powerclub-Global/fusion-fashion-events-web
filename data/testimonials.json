@@ -1,0 +1,44 @@
+{
+  "testimonials": [
+    {
+      "id": "t1",
+      "quote": "Fusion gave my collection the platform it deserved. The production quality rivals NYFW and the Miami energy is unmatched.",
+      "author": "Maria Santos",
+      "title": "Independent Designer",
+      "event": "Fusion Swim Week 2025",
+      "type": "designer"
+    },
+    {
+      "id": "t2",
+      "quote": "My career started at Fusion. The casting team is professional, supportive, and genuinely invested in emerging talent.",
+      "author": "Jasmine Okafor",
+      "title": "Model",
+      "event": "Hollywood Couture 2025",
+      "type": "model"
+    },
+    {
+      "id": "t3",
+      "quote": "As a sponsor, the ROI was immediate. Our brand was in front of exactly the right audience — fashion-forward, affluent, and engaged.",
+      "author": "Carlos Rivera",
+      "title": "Brand Director",
+      "event": "Fusion Swim Week 2025",
+      "type": "sponsor"
+    },
+    {
+      "id": "t4",
+      "quote": "The comp card session was worth every dollar. I went from zero agency interest to three callbacks within two weeks of submitting my new book.",
+      "author": "Aaliyah Chen",
+      "title": "Model",
+      "event": "Model Comp Card Workshop",
+      "type": "model"
+    },
+    {
+      "id": "t5",
+      "quote": "Hollywood Couture is the best-produced independent fashion show in South Florida. Period. I'll be back every year.",
+      "author": "Sofia Mendez",
+      "title": "Fashion Blogger & Attendee",
+      "event": "Hollywood Couture 2025",
+      "type": "attendee"
+    }
+  ]
+}

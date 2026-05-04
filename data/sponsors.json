@@ -1,0 +1,57 @@
+{
+  "sponsors": [],
+  "tiers": [
+    {
+      "id": "platinum",
+      "name": "Platinum",
+      "price": 25000,
+      "color": "#c9a84c",
+      "perks": [
+        "Title sponsor naming rights across all events",
+        "VIP table for 10 at all shows",
+        "Full-page ad in event programs",
+        "Logo on stage backdrop, website, and all collateral",
+        "Brand activation space at events",
+        "Dedicated social media campaign (3 posts)",
+        "Post-event analytics report"
+      ]
+    },
+    {
+      "id": "gold",
+      "name": "Gold",
+      "price": 10000,
+      "color": "#c9a84c",
+      "perks": [
+        "VIP table for 6 at all shows",
+        "Half-page ad in event programs",
+        "Logo on stage backdrop and website",
+        "2 dedicated social media posts",
+        "Brand mention in all press releases"
+      ]
+    },
+    {
+      "id": "silver",
+      "name": "Silver",
+      "price": 5000,
+      "color": "#999999",
+      "perks": [
+        "VIP tickets (4) to all shows",
+        "Logo on website and event programs",
+        "1 dedicated social media post",
+        "Brand mention in event announcements"
+      ]
+    },
+    {
+      "id": "media",
+      "name": "Media Partner",
+      "price": 0,
+      "color": "#6b6b6b",
+      "perks": [
+        "Press credentials for all events",
+        "Logo on press page and event programs",
+        "Co-branded content opportunities",
+        "Exclusive media access and interviews"
+      ]
+    }
+  ]
+}
